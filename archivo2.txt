@@ -1,4 +1,4 @@
 Este es el segundo archivo
 
 
--Este es un texto agregado-
+-Este es un texto MODIFICADO-
